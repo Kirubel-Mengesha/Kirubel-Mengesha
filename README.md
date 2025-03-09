@@ -14,8 +14,10 @@
 - **Tools**: Git, Postman, IntelliJ, VS Code  
 
 ### 📈 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirubel-Mengesha&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubel-Mengesha&layout=compact&theme=tokyonight)  
+
+### 🌟 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)  
 
 ### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kirubel-mengesha-340925223//)  
